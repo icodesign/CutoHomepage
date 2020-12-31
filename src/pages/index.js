@@ -4,7 +4,7 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import LargeLogo from "../images/svgs/logo-large.svg"
-import Screenshot from "../images/screenshot.png";
+import Image from "../components/image"
 import DownloadIcon from "../images/svgs/download.svg"
 import "./index.css"
 
@@ -19,7 +19,7 @@ const IndexPage = () => (
           <DownloadIcon />
         </Link>
       </div>
-      <img src={Screenshot} style={{ maxWidth: 400 }} alt="Screenshot"/>
+      <Image alt="Screenshot" />
     </div>
   </Layout>
 )
