@@ -20,8 +20,28 @@ module.exports = {
         path: `${__dirname}/src/pages`,
       },
     },
-    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-copy-linked-files`,
+          {
+            resolve: "gatsby-remark-images",
+            options: {
+              withWebp: true
+                // plugins: [
+                    // Optional: Remove the paragraph tag wrapping images
+                    // "gatsby-remark-unwrap-images",
+                    // // Wrap images by pictures
+                    // "gatsby-remark-picture",
+                // ],
+            },
+          },
+        ],
+      },
+    },
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
@@ -49,7 +69,7 @@ module.exports = {
         langKeyDefault: 'en',
         useLangKeyLayout: false
       }
-    }
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
