@@ -28,20 +28,14 @@ module.exports = {
           {
             resolve: "gatsby-remark-images",
             options: {
-              withWebp: true
-                // plugins: [
-                    // Optional: Remove the paragraph tag wrapping images
-                    // "gatsby-remark-unwrap-images",
-                    // // Wrap images by pictures
-                    // "gatsby-remark-picture",
-                // ],
+              // withWebp: true
             },
           },
         ],
       },
     },
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-image`,
+    // `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
