@@ -28,14 +28,12 @@ module.exports = {
           {
             resolve: "gatsby-remark-images",
             options: {
-              // withWebp: true
             },
           },
         ],
       },
     },
     `gatsby-transformer-sharp`,
-    // `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
