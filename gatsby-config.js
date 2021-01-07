@@ -25,11 +25,11 @@ module.exports = {
       options: {
         plugins: [
           // `gatsby-remark-copy-linked-files`,
-          {
-            resolve: "gatsby-remark-images",
-            options: {
-            },
-          },
+          // {
+          //   resolve: "gatsby-remark-images",
+          //   options: {
+          //   },
+          // },
         ],
       },
     },
