@@ -20,26 +20,27 @@ module.exports = {
         path: `${__dirname}/src/pages`,
       },
     },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          // `gatsby-remark-copy-linked-files`,
-          // {
-          //   resolve: "gatsby-remark-images",
-          //   options: {
-          //   },
-          // },
-        ],
-      },
-    },
+    `gatsby-transformer-remark`,
+    // {
+    //   resolve: `gatsby-transformer-remark`,
+    //   options: {
+    //     plugins: [
+    //       // `gatsby-remark-copy-linked-files`,
+    //       // {
+    //       //   resolve: "gatsby-remark-images",
+    //       //   options: {
+    //       //   },
+    //       // },
+    //     ],
+    //   },
+    // },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Cuto Wallpaper`,
+        short_name: `Cuto Wallpaper`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#000000`,

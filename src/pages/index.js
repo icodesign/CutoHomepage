@@ -10,7 +10,7 @@ import "./index.css"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Cuto Wallpaper" showDefaultTitle={false}/>
     <div className="container">
       <div className="left-content">
         <LargeLogo style={{ marginBottom: `0.75rem` }}/>
