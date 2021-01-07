@@ -20,19 +20,19 @@ module.exports = {
         path: `${__dirname}/src/pages`,
       },
     },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          `gatsby-remark-copy-linked-files`,
-          {
-            resolve: "gatsby-remark-images",
-            options: {
-            },
-          },
-        ],
-      },
-    },
+    // {
+    //   resolve: `gatsby-transformer-remark`,
+    //   options: {
+    //     plugins: [
+    //       `gatsby-remark-copy-linked-files`,
+    //       {
+    //         resolve: "gatsby-remark-images",
+    //         options: {
+    //         },
+    //       },
+    //     ],
+    //   },
+    // },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
