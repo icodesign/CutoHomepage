@@ -4,9 +4,10 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import LargeLogo from "../images/svgs/logo-large.svg"
-import Image from "../components/image"
+// import Image from "../components/image"
 import DownloadIcon from "../images/svgs/download.svg"
 import "./index.css"
+import { StaticImage } from "gatsby-plugin-image"
 
 const IndexPage = () => (
   <Layout>
@@ -19,7 +20,7 @@ const IndexPage = () => (
           <DownloadIcon />
         </Link>
       </div>
-      <Image alt="Screenshot" />
+      <StaticImage maxWidth={400} src="../images/screenshot.png" alt="Cuto Screenshot" />
     </div>
   </Layout>
 )

@@ -4,7 +4,7 @@ title: "Cuto 2.0 和它背后的故事"
 
 # Cuto 2.0 和它背后的故事
 
-![Banner](../images/story/banner.webp)
+![Banner](../images/story/banner.jpg#width=100%)
 
 Cuto 2.0 上线了。有点开心，也有点忐忑。
 
@@ -16,7 +16,7 @@ Cuto 2.0 上线了。有点开心，也有点忐忑。
 
 ⚠如果你想快速了解这次 Cuto 新版本变化，可跳过第一个小标题（我的流水账），从第二部分「让换壁纸自动化」开始看。
 
-![App Store Page of Cuto](../images/story/pic1.webp)
+![App Store Page of Cuto](../images/story/pic1.jpg#width=300px;margin=0 auto;)
 
 ## 从放弃到重生
 
@@ -36,7 +36,7 @@ Cuto 2.0 上线了。有点开心，也有点忐忑。
 
 可能是拖得太久，也可能是我们觉得如果不按之前规划来做的话，这件事似乎不是那么有意思了……加上用爱发电这么久，一直在亏的一个项目，让人越来越没有激情和动力。
 
-![亏损](../images/story/pic2.webp)
+![亏损](../images/story/pic2.jpg#width=300px;margin=0 auto;)
 
 2020 年 6 月的一天，罐子给我发消息说，想退出 Cuto 的开发，我直接就答应了，并且长舒了一口气。因为，那段时间我也一直在想：「要不算了吧？」
 
@@ -44,7 +44,7 @@ Cuto 2.0 上线了。有点开心，也有点忐忑。
 
 但谈着谈着，也有了越来越多的不舍和不甘心。Cuto 不算一款成功的产品，但倾注了我的心力。从最初上线数起的话，我已经连续四年每周不间断挑选、更新 Cuto 壁纸了，也得到了很多用户的肯定，换谁来这都会是一件难以割舍的事。
 
-![App Store Reviews](../images/story/pic3.webp)
+![App Store Reviews](../images/story/pic3.jpg#width=300px;margin=0 auto;)
 
 「妈的，我要再试一次。」
 
@@ -63,30 +63,30 @@ Cuto 2.0 不算翻天覆地的变化，但也有一些新东西。
 
 新版里「收藏」功能也变得更有用了。一方面是支持了 iCloud 同步记录，这样即使你删了 app，下次再装回来的时候，以前收藏的壁纸也还在那儿；以及 iPhone 上的收藏也能同步到 iPad 上了。
 
-![Screenshot](../images/story/pic4.webp)
+![Screenshot](../images/story/pic4.png#width=600px;margin=0 auto;)
 
 
 另一方面，配合我们最新支持的「自动换壁纸」快捷指令，你除了可以实现自动更换 Cuto 当日新壁纸、自动更换随机一张 Cuto 壁纸，还能自动更换随机一张你在 Cuto 收藏列表里的壁纸。
 
-![Automation](../images/story/pic5.webp)
+![Automation](../images/story/pic5.jpg#width=300px;margin=0 auto;)
 
 「从你收藏的壁纸里随机」是我个人认为最有意义且最实用的。虽说 Cuto 壁纸的平均质量还不错，但我相信，没有人会喜欢里面每一张壁纸。
 
 现在，你完全可以利用「收藏」功能筛选出你自己喜欢的一批壁纸，可能 5 张，可能 10 张、20 张，通过创建快捷指令，你可以轻松实现——在不打开 Cuto app 也不进入系统设置项的情况下，按一定周期完全自动化地更换你的手机壁纸，而且这些壁纸都是你收藏下来的、那些自己喜欢的。
 
-![Automation](../images/story/pic6.webp)
+![Automation](../images/story/pic6.jpg#width=500px;margin=0 auto;)
 
-![Automation](../images/story/pic7.webp)
+![Automation](../images/story/pic7.jpg#width=500px;margin=0 auto;)
 
 *创建「每天自动换壁纸」自动化步骤。取消「运行前询问」可不通知直接自动更换。*
 
 你也可以设置成手动运行快捷指令才换一张壁纸，把快捷指令放在主屏，或者设置成敲击手机背面三下来运行。
 
-![Automation](../images/story/pic8.gif)
+![Automation](../images/story/pic8.jpg#width=300px;margin=0 auto;)
 
 除此之外，新版 Cuto 在 iPad 上的图片排布展示也有了优化，浏览体验会更好。
 
-![iPad](../images/story/pic9.webp)
+![iPad](../images/story/pic9.png#width=600px;margin=0 auto;)
 
 
 ## 选择内购解锁，而非订阅制
