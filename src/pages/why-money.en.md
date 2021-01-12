@@ -4,6 +4,8 @@ title: "Why did Cuto become a paid app?"
 
 # Why did Cuto become a paid app?
 
+![Banner](../images/story/banner.jpg#width=100%)
+
 Cuto is an independent app developed by only two people. All wallpapers are hand-picked by editors every week to improve user experience, and the wallpapers are also synced to domestic servers to speed up downloading. In the past, Cuto is free with no ads. This could not cover server and labor costs, which is the direct reason for Cuto to become a paid app.
 
 We hope that Cuto will resume stable updates and provide better wallpapers and richer features for everyone, so that both of us can stop losing money and earn reasonable income.
