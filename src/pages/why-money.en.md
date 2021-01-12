@@ -12,7 +12,7 @@ We hope that Cuto will resume stable updates and provide better wallpapers and r
 
 But we need to admit that we didn't do a very good job with the transition to a paid plan, and we apologize to all our Cuto users who felt bad about it!
 
-If you're interested in learning more about the behind-the-scenes story of Cuto's development. [Click here to read more](https://www.icodesign.me/posts/cuto2-story/).
+If you're interested in learning more about the behind-the-scenes story of Cuto's development. [Click here to read more [Chinese]](https://www.icodesign.me/posts/cuto2-story/).
 
 The wallpapers now available for Cuto free users includes:
 
