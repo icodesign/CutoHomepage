@@ -17,33 +17,16 @@ const getRedirectLanguage = () => {
     return "zhHant"
   }
 
-  switch (lang) {
-    case "de":
-        return "de";
-    case "es":
-        return "es";
-    case "fr":
-        return "fr";
-    case "it":
-        return "it";
-    case "ja":
-        return "ja";
-    case "ko":
-        return "ko";
-    case "ru":
-        return "ru";
-    default:
-        return "en";
-  }
+  return "en"
 };
 
-const FAQPage = () => {
+const WhyMoneyPage = () => {
   useEffect(() => {
     const urlLang = getRedirectLanguage();
-    navigate(`/${urlLang}/faq/`, {replace: true});
+    navigate(`/${urlLang}/why-money/`, {replace: true});
   }, []);
 
   return null;
 };
 
-export default FAQPage;
+export default WhyMoneyPage;
